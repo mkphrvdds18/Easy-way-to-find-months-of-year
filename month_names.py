@@ -4,6 +4,21 @@ Created on Fri May 18 11:45:18 2018
 
 @author: 
 - more codes will be added 
+output:
+Print all the months name of year: 
+January
+February
+March
+April
+May
+June
+July
+August
+September
+October
+November
+December
+Cool !
 
 """
 import calendar
